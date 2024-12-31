@@ -1,2 +1,2 @@
 # jspm-binary_brains
-Repository for Inventory Management System
+This is the Repository for Inventory Management System
